@@ -1,0 +1,11 @@
+{
+    "name": "Email Scraper",
+    "description": "Scrape emails for any webapge",
+    "author": "Sayantan Sikdar",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "permissions": ["activeTab", "scripting"]
+}
